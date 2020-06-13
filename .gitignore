@@ -7,3 +7,5 @@ credential.py
 include/      
 lib64/
 lib64
+env
+export_credential.sh
